@@ -1,1 +1,1 @@
-El texto de prueba para github
+El texto de prueba para git y demas repositorios.
