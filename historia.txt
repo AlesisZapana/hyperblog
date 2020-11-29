@@ -1,1 +1,7 @@
-El texto de prueba para github
+El texto de prueba para git y demas repositorios.
+
+Este es un nuevo párrafo que se agrega al commit.
+
+Mañana nos enfocaremos en la vida laboral
+
+Trabajos anteriores: pasante en CPSPTF y en servicio técnico.
