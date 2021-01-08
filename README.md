@@ -12,3 +12,5 @@ Blog en html
 > Detalles del blog
 
 *Creado por Aco Team
+*Incluye ejemplos en windows linux y mac
+*disponible para todos
